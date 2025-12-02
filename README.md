@@ -1,11 +1,6 @@
 # Convex-Hull_Jarvis-Algorithm
 Algoritmo de Jarvis em C++ para encontrar o Fecho Convexo (Convex Hull). Demonstração da lógica de orientação anti-horária.
 
-Com certeza\! Um bom arquivo `README.md` no GitHub deve ser claro, informativo e estruturado.
-
-Aqui está um texto completo e bem estruturado que você pode usar, com seções que explicam o algoritmo, como ele funciona e como executar o código.
-
------
 
 # 🤖 Algoritmo de Jarvis (Marcha do Embrulho de Presente)
 
