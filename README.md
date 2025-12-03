@@ -55,4 +55,4 @@ Para compilar e executar o código, você precisará de um compilador C++ (como 
 O programa imprimirá as coordenadas dos pontos que compõem o Fecho Convexo.
 
 Fonte/Referência
-https://www.geeksforgeeks.org/dsa/orientation-3-ordered-points/
+https://www.geeksforgeeks.org/dsa/convex-hull-using-jarvis-algorithm-or-wrapping/
